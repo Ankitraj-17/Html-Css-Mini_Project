@@ -122,11 +122,6 @@ To view this project locally:
 
 ---
 
-## 📸 Screen Preview
-
->
-
----
 
 ## 📬 Contact
 
